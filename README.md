@@ -6,6 +6,7 @@ The style of the clocks can vary. Some have Arabic numbering whilst others are i
 
 ![screenshot](Clocks.PNG)
 
+
 Tell the time(s) from pictures of analog clocks with:
 - Frontal view and no background scene.
 -	Frontal view with background scene (e.g. portraits, wall texture, desktop items).
